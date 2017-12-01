@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.12.1)  1 DEC 2017 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.27)  1 DEC 2017 13:02
 entering extended mode
 **./book.tex
 (book.tex
@@ -61,8 +61,7 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-)
-(C:\Users\One\AppData\Roaming\MiKTeX\2.9\tex\latex\framed\framed.sty
+) (framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip43
 \fb@frw=\dimen105
@@ -81,11 +80,10 @@ Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
 
 
 Writing index file book.idx
-(C:\Users\One\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\upquote\upquote.sty"
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
-)
-(book.aux)
+) (book.aux)
 \openout1 = `book.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
@@ -101,7 +99,7 @@ LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
 
-(C:\Users\One\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen109
@@ -186,24 +184,27 @@ Chapter 2.
 
 ]
 Chapter 3.
-(book.ind) [9] (book.aux) ) 
+[9] (book.ind [10] [11
+
+
+]) (book.aux) ) 
 Here is how much of TeX's memory you used:
- 1670 strings out of 493323
- 23602 string characters out of 3139072
- 82455 words of memory out of 3000000
+ 1669 strings out of 493323
+ 23363 string characters out of 3139065
+ 85455 words of memory out of 3000000
  5195 multiletter control sequences out of 15000+200000
  8548 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,25p,281b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on book.pdf (9 pages, 72794 bytes).
+ 39i,6n,25p,539b,179s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on book.pdf (11 pages, 95887 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
